@@ -14,7 +14,7 @@
 
 }
 nav .nav_container .logo{
-    color: green;
+    color: rgb(15, 0, 128);
 }
 .nav_container .nav-link{
     width: 500px;
@@ -38,5 +38,5 @@ nav .nav_container .logo{
     justify-content: center;
     align-items: center;
     height: 90vh;
-    background-color: #eee;
+    background-color: #d76f6f;
 }
